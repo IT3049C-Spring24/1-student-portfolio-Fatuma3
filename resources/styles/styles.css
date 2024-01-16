@@ -1,0 +1,15 @@
+Img {
+  size: 10px;
+  border-radius: 50%;
+  object-fit: scale-down;
+}
+
+
+#programming-languages {
+  text-align: left;
+
+}
+
+#achievements {
+  float: left;
+}
