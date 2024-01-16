@@ -10,18 +10,18 @@
 <!--- Update the following line with your self-grade --->
 <!--- Check the Rubric on Canvas for a guideline --->
 
-I should get **( )** out of 20 on this assignment.
+I should get **(19)** out of 20 on this assignment.
 
 ## Self-Reflection:
 
 - **How long it took me to finish this?**
-<!-- Answer below this line -->
+It me an hour to get the skeleton of the project done and 4 hours to finish the entire project
 
 - **What do you think of this completion time?**
-<!-- Answer below this line -->
+If managemnt my time better it would much less
 
 - **In hindsight, what would you do differently?**
-- <!-- Answer below this line -->
+- I would dedicate time to specicaliy do this assignmnent in one or two sitting since it was simple. 
 
 - **What resources did you use?**
-- <!-- Answer below this line -->
+- I used the assignment intructions, Youtube, and general google searches 
